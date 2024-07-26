@@ -1,16 +1,21 @@
-## Hi there 👋
+https://github.com/isauritaU/isauritaU/blob/main/banner%20github.mp4
 
-<!--
-**isauritaU/isauritaU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/isauritaU/isauritaU/blob/main/banner%20github.mp4" width="800"/>
+</div>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doris-uf/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=isauritaU.isauritaU&color=00cf00" alt=""/>
+
+<h1>
+  Hola soy Doris. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+ <div id="header" align="left">
+
+### :woman_technologist: Sobre mí : 
+Soy una enfermera en transición hacia la ciencia de datos, siempre me ha gustado la tecnología y estoy entusiasmada por aprender y crecer en este campo. Actualmente he estado trabajando en diferentes proyectos mientras adquiero habilidades en análisis de datos, aprendizaje automático y programación.
