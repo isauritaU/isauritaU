@@ -1,7 +1,5 @@
-https://github.com/isauritaU/isauritaU/blob/main/banner%20github.mp4
-
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/isauritaU/isauritaU/blob/main/banner%20github.mp4" width="800"/>
+  <img decoding="async" src="https://github.com/isauritaU/isauritaU/blob/main/Banner%20%20Gris%20Claro.png" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doris-uf/)
