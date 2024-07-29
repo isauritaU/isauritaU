@@ -23,19 +23,13 @@ Soy una enfermera en transición hacia la ciencia de datos, siempre me ha gustad
 
 <div id="header" align="left">
   <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  </a>
   <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white/>
-  </a>
-  <https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white/>
-  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="teams"/>
+  <img decoding="async" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </div>
 
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
   
 
 
