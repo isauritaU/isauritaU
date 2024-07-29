@@ -32,8 +32,10 @@ Soy una enfermera en transición hacia la ciencia de datos, siempre me ha gustad
   </a>
   <https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white/>
   </a>
-  </div>
-  
+</div>
+
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 
 
