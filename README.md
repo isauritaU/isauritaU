@@ -17,3 +17,25 @@
 
 ### :woman_technologist: Sobre mí : 
 Soy una enfermera en transición hacia la ciencia de datos, siempre me ha gustado la tecnología y estoy entusiasmada por aprender y crecer en este campo. Actualmente he estado trabajando en diferentes proyectos mientras adquiero habilidades en análisis de datos, aprendizaje automático y programación.
+
+---
+### :hammer_and_wrench: Lenguajes y herramientas :
+
+<div id="header" align="left">
+  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white/>
+  </a>
+  <https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white/>
+  </a>
+  </div>
+  
+  
+
+
+
+
